@@ -10,3 +10,4 @@ Then I decided to try to work with [scrapy](https://scrapy.org/) which seemed to
 
 I finished a course on datacamp, but it wasn't really useful in terms of scrapy. It was closer to HTML practice, however, it gave some new vision on web scraping
 
+![GitHub rython Web scraping course](https://github.com/MikhailovDaniil/parsingPY/blob/main/certificate.pdf)
