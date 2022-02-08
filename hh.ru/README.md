@@ -1,4 +1,4 @@
-# hh.ru Web scraping
+# [hh.ru](hh.ru) Web scraping
 
 I've collected information about all available vacancies from the biggest russian headhunter website
 
