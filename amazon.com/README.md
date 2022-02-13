@@ -3,3 +3,4 @@
 I've collected the all useful information about first 450 best (ranked by customers' rewievs) headphones
 
 This code also can be used for any types of products from the amazon
+Just change the input url and the number of pages switching to get more or less results
